@@ -61,7 +61,7 @@ You will be interacting with and playing various roles consistent with an agile 
 
 ## Minimum requirements
 
-* Choose a project based around ideas presented during kick off
+* Build an application around an idea from an external end-user
 
 * Create a backlog of tickets to work through during the week
   - [Example Board](https://trello.com/b/FcySKoaf/example-trello-project)
@@ -87,18 +87,13 @@ We're here to help guide you through this process...and potentially throw some w
 
 ## Meetings and Expectations
 
-## DAY 1 @ 9:30 - Kickoff and Ideation
-
-**Deliverables:**
-* Teams established around an idea
+## DAY 1 - Kickoff and Problem Exploration
 
 
 ![ideation](./images/ideation.jpg)
 
 
 This is our meeting to discuss and plan the projects as a whole, and to lay out the process for the remaining days worth of work.
-
-For this sprint we will come together as a class for an ideataion session. Each of you will come up with application ideas and write them on the whiteboard. After all ideas are up on the board, you will indicate which top 3 ideas you are interested in, and we will form up in teams of 4-5
 
 Everyone plays the role of full-stack developer in this agile enviroment, some folks will have additional roles:
 
@@ -112,8 +107,7 @@ Everyone plays the role of full-stack developer in this agile enviroment, some f
 
 You cannot work on an idea of your own. Instead, if a team is working on your idea, you will have an additional role in that team as an end user.
 
-
-## DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval
+## DAY 1 - Meet the end user!
 
 **Deliverables:**
 * Project proposal
@@ -121,13 +115,19 @@ You cannot work on an idea of your own. Instead, if a team is working on your id
   * Project Name
   * What problem does it solve?
   * User Inputs/Outputs
-  * MVP Components and wireframes
+
+[Submit this form](https://docs.google.com/forms/d/e/1FAIpQLSfBmDge0dNNlEAH2WFTp4cfdDzFOLiCCiWluZJ53rxSs3KM0w/viewform)
+
+
+## DAY 1 - Sprint Planning and Proposal for Approval
+
+**Deliverables:**
 * Team roles
 * Starting technology stack and deployment strategy
 * Trello board with initial tickets assigned to team members
+* MVP Components and wireframes
 
-
-During this meeting you will split into teams, each person will share with their team:
+During this meeting, each person will share with their team:
 
 * What you feel you can help others with
 * What you feel you need to work on
@@ -150,7 +150,7 @@ There should be no more than 3-5 primary features that consistute MVP for the pr
 
 **Do this as a team!**
 
-## DAY 1 Afternoon: Meet with user(stakeholder)
+## DAY 1 Follow Up with Stakeholder
 
 **Deliverables:**
 

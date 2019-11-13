@@ -150,7 +150,7 @@ There should be no more than 3-5 primary features that consistute MVP for the pr
 
 **Do this as a team!**
 
-## DAY 1 Follow Up with Stakeholder
+## DAY 1 Follow Up with End user
 
 **Deliverables:**
 

@@ -134,19 +134,19 @@ During this meeting, each person will share with their team:
 * What you enjoy doing the most
 * What additional role you would like to take on in addition to 'developer'
 
-Then you will elect roles, and discuss the project to flush out your technology choices.
+Then you will elect roles, and discuss the project to flesh out your technology choices.
 
 By the end of this meeting, you will have MVP components that are broken down in to user-story tickets, with some setup and starter code tickets. The team will have a clearly defined scope of work, wireframes, and initial tickets chosen.
 
 The process looks like this:
 
-**Idea -> MVP Components -> Wireframes(Facilitated by UI owner) -> User Story Tickets -> Convesation Section (for later review with user) -> Acceptance Criteria**
+**Idea -> MVP Components -> Wireframes(Facilitated by UI owner) -> User Story Tickets -> Conversation Section (for later review with user) -> Acceptance Criteria**
 
 After the starting tickets are in, your team will work with instructional staff to assign points to each ticket. It is everyone's responsibility to ensure that we meet this goal together!
 
 MVP Components will involve the outside **user who came up with the idea to join this meeting.**
 
-There should be no more than 3-5 primary features that consistute MVP for the project. 
+There should be no more than 3-5 primary features that constitute MVP for the project. 
 
 **Do this as a team!**
 

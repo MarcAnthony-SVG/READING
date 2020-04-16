@@ -14,7 +14,7 @@ Let's begin our tour (don't blink!)...
   - [Your Agile Process](#your-agile-process)
   - [Minimum requirements](#minimum-requirements)
   - [Meetings and Expectations](#meetings-and-expectations)
-  - [DAY 1 @ 9:30 - Kickoff and Ideation](#day-1---kickoff-and-ideation)
+  - [DAY 1 @ 9:30 - Kickoff and Problem Exploration](#day-1---kickoff-and-problem-exploration)
   - [DAY 1 @ 10:30 - Sprint Planning and Proposal for Approval](#day-1---sprint-planning-and-proposal-for-approval)
   - [DAY 1 Afternoon: Meet with user(stakeholder)](#day-1-afternoon-meet-with-userstakeholder)
   - [Daily Standup](#daily-standup)
